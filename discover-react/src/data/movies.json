@@ -1,9 +1,0 @@
-[
-  {"id":"m1","title":"Never Have I Ever","poster":"/images/tv-show/poster/never-have-ever-poster.webp","genre":"Comedy","moods":["Chill","Emotional"],"rating":7.5,"year":2020,"introStart":0,"introEnd":12,"recapStart":null,"recapEnd":null},
-  {"id":"m2","title":"Extraction","poster":"/images/movies/extraction-poster.jpg","genre":"Action","moods":["Action","Thriller"],"rating":6.9,"year":2020,"introStart":0,"introEnd":9,"recapStart":null,"recapEnd":null},
-  {"id":"m3","title":"Horrible Bosses","poster":"/images/movies/horrible-bosses-middle-poster.webp","genre":"Comedy","moods":["Chill"],"rating":6.9,"year":2011,"introStart":0,"introEnd":10,"recapStart":null,"recapEnd":null},
-  {"id":"m4","title":"Kabir Singh","poster":"/images/movies/kabir-singh-poster.webp","genre":"Romance","moods":["Emotional","Focus"],"rating":7.2,"year":2019,"introStart":0,"introEnd":14,"recapStart":null,"recapEnd":null},
-  {"id":"m5","title":"Murder Mystery","poster":"/images/movies/murder-mystery-poster.jpg","genre":"Mystery","moods":["Thriller","Hidden"],"rating":6.0,"year":2019,"introStart":0,"introEnd":8,"recapStart":null,"recapEnd":null},
-  {"id":"m6","title":"We Are The Millers","poster":"/images/movies/we-are-the-milers-poster-little.webp","genre":"Comedy","moods":["Chill"],"rating":6.1,"year":2013,"introStart":0,"introEnd":11,"recapStart":null,"recapEnd":null},
-  {"id":"m7","title":"Hidden Gem Sample","poster":"/images/movies/hidden-gem.jpg","genre":"Indie","moods":["Focus","Emotional"],"rating":8.2,"year":2018,"introStart":0,"introEnd":15,"recapStart":null,"recapEnd":null}
-]
